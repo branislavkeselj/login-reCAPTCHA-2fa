@@ -1,4 +1,4 @@
-Primer login stranice sa reCAPTCHA i 2FA verifikacijom. Sva podešavanja se nalaze u config.json i .env fajlu.
+Node.js primer login stranice sa reCAPTCHA i 2FA verifikacijom. Sva podešavanja se nalaze u config.json i .env fajlu.
 
 Da bi se prijavili 
 
