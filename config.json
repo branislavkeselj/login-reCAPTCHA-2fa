@@ -1,0 +1,47 @@
+{
+    "app":{
+        "name":"TEST"
+    },
+    "login":{
+        "enable":1,
+        "reCaptcha": 0,
+        "failed":{
+            "blocked": {
+                "attempts":5,
+                "expires":300
+            },
+            "reCaptcha":3
+        }
+    },
+    "_2FA":{
+        "enable":0,
+        "failed": {
+            "attempts": 5
+        }
+    },
+    "register":{
+        "enable":0,
+        "failed": {
+            "blocked": {
+                "attempts": 5,
+                "expire": 300
+            },
+            "reCaptcha": 3
+        }
+    },
+    "reCaptcha":{
+        "url":"https://www.google.com/recaptcha/api/siteverify?secret={secret}&response={response}",
+        "site": "",
+        "secret": ""
+    },
+    "url":{
+        "root":"/",
+        "login":"/prijavi-se",
+        "register":"/registruj-se",
+        "logout":"/odjavi-se",
+        "blocked_app":"/blocked/app",
+        "blocked_user":"/blocked/user",
+        "offline":"/offline",
+        "_2fa":"/2fa"
+    }
+}

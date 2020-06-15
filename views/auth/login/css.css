@@ -1,0 +1,102 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+
+    font: 14px Verdana,Arial,sans-serif;;
+    background-color: #fff;
+    line-height: 18px;
+}
+
+.em2-container {
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.em2-logo {
+    margin:0 auto;
+    width: 350px;
+    text-align:left;
+    height:100px
+}
+
+.em2-error-msg {
+    width: 335px;
+    margin:0 auto 15px auto;
+    padding: 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #a94442;
+    background-color: #f2dede;
+    border: solid 1px #f2bdbd;
+}
+
+.em2-form-box {
+    margin:0 auto;
+    width: 303px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    border:solid 1px #eee
+}
+
+#em2-form-reCaptcha {
+
+    float: left;
+
+    height:77px;
+    border:solid 1px #fff;
+    border-radius: 3px
+}
+
+.em2-form-button-box {
+    clear:both;
+    background-color: #fff;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.em2-form-btn {
+    width:303px;
+    height:40px;
+    border-radius: 4px;
+    border:solid 1px #ccc;
+    background: #f1f1f1;
+    font-size: 16px;
+    color: #777;
+    font-weight: bold;
+    font-family : inherit;
+}
+
+.em2-form-footer {
+    margin:0 auto 5px auto;
+    width: 468px;
+    padding: 3px ;
+    text-align: center;
+    color: #59666d;
+    font-size: 11px
+}
+
+.em2-form-label {
+    font-size: 14px ;
+    color: #777;
+}
+
+.em2-form-input {
+    width:293px;
+    height:30px;
+    font-size:16px;
+    border-radius:4px;
+    padding: 4px;
+    border:solid 1px #dddddd;
+}
+
+.em2-form-input-error{
+    border: 1px solid #ffa8a8!important;
+    background-color: #fff4eb!important;
+}
