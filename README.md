@@ -2,9 +2,10 @@ Primer login stranice sa reCAPTCHA i 2FA verifikacijom. Sva podešavanja se nala
 
 Da bi se prijavili 
 
-korisničko ime: bla@bla.bla
-lozinka: 12345678
-2fa kod: IFQCWG2EJYOWE6Y4
+korisničko ime: bla@bla.bla<br />
+lozinka: 12345678<br />
+2fa kod: IFQCWG2EJYOWE6Y4<br />
 
-![image](https://drive.google.com/file/d/1Khq3AswViI30codwkKKMiNq94lJCfIHu/view?usp=sharing)
-![image](https://drive.google.com/file/d/1OqJSvH2pTXovKweqLSJiM-0WsDI3-JIt/view?usp=sharing)
+<img alt="login" src="https://github.com/branislavkeselj/login-reCAPTCHA-2fa/blob/master/images/logo.PNG">
+
+<img alt="login" src="https://github.com/branislavkeselj/login-reCAPTCHA-2fa/blob/master/images/2fa.PNG">
