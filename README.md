@@ -8,4 +8,6 @@ lozinka: 12345678<br />
 
 <img alt="login" src="https://github.com/branislavkeselj/login-reCAPTCHA-2fa/blob/master/images/logo.PNG">
 
+nakon toga treba uneti 2fa kod
+
 <img alt="login" src="https://github.com/branislavkeselj/login-reCAPTCHA-2fa/blob/master/images/2fa.PNG">
